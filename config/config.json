@@ -1,0 +1,24 @@
+{
+ "development": {
+  "username": "postgres",
+  "password": "12345678",
+  "database": "mi_basedatos",
+  "host": "localhost",
+  "port": 5432,
+  "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "12345678",
+    "database": "mi_basedatos",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "12345678",
+    "database": "mi_basedatos",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
